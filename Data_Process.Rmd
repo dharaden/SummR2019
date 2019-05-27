@@ -1,0 +1,19 @@
+---
+title: "Data_Process"
+author: "Dustin Haraden"
+date: "5/22/2019"
+output: html_document
+---
+Below here is an R-script;l this can be regular text
+
+```{r setup}
+
+library(tidyverse)
+
+load(file='Week 1/Data/21600-0001-Data.rda')
+#DO NOT TRY TO VIEW THIS FILE. IT IS TOO BIG
+```
+Above: how to load RDA file (https://www.r-bloggers.com/load-save-and-rda-files/)
+
+
+This can also be regular text
